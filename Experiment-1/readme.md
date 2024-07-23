@@ -1,14 +1,14 @@
 # program code
-![program code file](FCFS.java)
+![program code file](FCFS_LE_502.java)
 
 # program image
 
-![program image](program.png)
+![program image](program_LE_502.png)
 
 # program output
 
-1[program output image](program_output.png)
+1[program output image](program_output_LE_502.png)
 
 # Tested output
 
-1[Tested output image](Tested_output.png)
+1[Tested output image](Tested_output_LE_502.png)
