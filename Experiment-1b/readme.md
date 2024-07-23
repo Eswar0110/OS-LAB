@@ -1,5 +1,5 @@
 # Program Code
-![Program File](SFJC_LE_502.java)
+![Program File](SFJ_LE_502.java)
 
 # Program image
 ![Program image](programcode_LE_502.png)
