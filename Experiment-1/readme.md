@@ -7,8 +7,8 @@
 
 # program output
 
-1[program output image](program_output_LE_502.png)
+![program output image](program_output_LE_502.png)
 
 # Tested output
 
-1[Tested output image](Tested_output_LE_502.png)
+![Tested output image](Tested_output_LE_502.png)
